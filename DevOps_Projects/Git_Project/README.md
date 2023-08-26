@@ -9,5 +9,11 @@ Touch:creating a new empty file
 git add:stages changes for commit preapared for modifications
 git commit -m "initial commit::saves your changes to the local repository, just like a checkpoint in your project
 ![Alt text](<../Images/Screenshot 2023-08-26 at 04.07.35.png>)
+
 #Working with Branches
 
+git checkout -b my-new-branch:creates and switches to a new branch
+git branch:used to view,create or delete branches in the reposistory
+![Alt text](<../Images/Screenshot 2023-08-26 at 04.30.58.png>)
+
+#Merging a Branch into another Branch
