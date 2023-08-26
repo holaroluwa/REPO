@@ -6,3 +6,4 @@ I am Learning how to initialize a git repository
 
 Mastering this is essential for my journey to becoming a DevOps Engineer.
 
+Ola has a darey buddy
