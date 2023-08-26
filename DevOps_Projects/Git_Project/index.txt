@@ -1,0 +1,5 @@
+My name is Olaoluwa Odusanya
+
+I am learning how to initialize a git repository
+
+This is crucial for my DevOps Journey 
